@@ -1,0 +1,22 @@
+{
+  "name": "callbag-to-rxjs",
+  "version": "1.0.0",
+  "description": "Convert a listenable callbag source to an RxJS Observable",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staltz/callbag-to-rxjs.git"
+  },
+  "main": "readme.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "author": "staltz.com",
+  "license": "MIT",
+  "keywords": [
+    "callbag"
+  ],
+  "devDependencies": {
+    "rxjs": "5.5.6",
+    "tape": "^4.8.0"
+  }
+}
